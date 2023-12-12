@@ -1,0 +1,40 @@
+﻿@model CommonLayer.Model.EmployeeLogin
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Login_Layout.cshtml";
+}
+
+<div class="container">
+<div class="row">
+    <div class="col-4 offset-4 bg-info text-light mt-3 box-shadow rounded ">
+        <h4 class="text-center p-1 bg-dark text-light" >EmployeeLogin</h4>
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmpLoginId" class="control-label"></label>
+                <input asp-for="EmpLoginId" class="form-control" />
+                <span asp-validation-for="EmpLoginId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpLoginName" class="control-label"></label>
+                <input asp-for="EmpLoginName" class="form-control" />
+                <span asp-validation-for="EmpLoginName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

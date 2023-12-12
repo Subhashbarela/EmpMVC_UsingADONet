@@ -1,0 +1,16 @@
+﻿.table-fixed-header th.fixed-header {
+    position: sticky;
+    top: 0;
+    background-color: #fff; /* Change the background color as needed */
+    z-index: 1;
+}
+
+.table-fixed-header {
+    overflow-y: auto;
+    max-height: 400px; /* Set the maximum height for vertical scrolling */
+}
+
+.index_profile img {
+    max-width: 50px; /* Set the maximum width for profile images */
+    max-height: 50px; /* Set the maximum height for profile images */
+}

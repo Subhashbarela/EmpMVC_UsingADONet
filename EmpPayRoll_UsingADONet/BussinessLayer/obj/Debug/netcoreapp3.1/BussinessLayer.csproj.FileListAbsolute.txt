@@ -1,0 +1,15 @@
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb

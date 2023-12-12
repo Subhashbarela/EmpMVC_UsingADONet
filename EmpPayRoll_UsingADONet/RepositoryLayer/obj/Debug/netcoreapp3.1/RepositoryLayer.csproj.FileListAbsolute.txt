@@ -1,0 +1,13 @@
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Asp.NetProject\MVCProject\EmployeePayRollUsingADONet\EmpPayRoll_UsingADONet\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb

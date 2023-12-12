@@ -1,0 +1,20 @@
+﻿.pb-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.main-login-page {
+    background-color: #538484;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    color: white;
+}
+
+.login-page {
+    margin:20px;
+    padding-right:20px;
+}
+
